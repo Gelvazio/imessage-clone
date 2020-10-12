@@ -1,0 +1,26 @@
+.messages {
+    display: flex;
+    align-items: center;
+    position: relative;
+    width: fit-content;
+    justify-content: space-between;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.messages > p {
+    background-color: #F3F3F5;
+    font-size: medium;
+    padding: 13px;
+    border-radius: 999px;
+    margin: 5px;
+    margin-right: auto;
+}
+
+.messages > small {
+    color: gray;
+    position: absolute;
+    font-size: 10px;
+    bottom: -7px;
+    right: 0; 
+}
