@@ -6,6 +6,10 @@
    iMessage Clone tecnologias JavaScript, HTML, CSS, Redux, Firebase
 </h4>
 
+<h4 align="left">
+  Obs. O projeto ainda está em andamento.
+</h4>
+
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
