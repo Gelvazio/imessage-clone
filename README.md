@@ -1,5 +1,5 @@
 <h1 align="center">
-    iMessage Clone
+    iMessage Apple Clone
 </h1>
 
 <h4 align="center">
